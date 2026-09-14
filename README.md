@@ -1,2 +1,2 @@
 # stu-edu-project
-My new project
+This is my open-source project from when I was learning C :)
